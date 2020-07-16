@@ -1,16 +1,10 @@
 /*
-Name: Dhaval Wagela
-Student Id: 1001769786
-Net Id; dxw9786
 
 Code Reference URL:  https://www.dreamincode.net/forums/topic/259777-a-simple-chat-program-with-clientserver-gui-optional/
  */
 package chatmessage.Server;
 
-/**
- *
- * @author shubh
- */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
